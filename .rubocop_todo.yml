@@ -132,3 +132,6 @@ Style/SymbolArray:
 # URISchemes: http, https
 Layout/LineLength:
   Max: 198
+
+Lint/ScriptPermission:
+  Enabled: false
