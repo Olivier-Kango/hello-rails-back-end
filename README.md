@@ -29,7 +29,8 @@
 
 # 📖 Hello Rails Backend app <a id="about-project"></a>
 
-> The Hello Rails Backend app is about displaying the random greeting in the browser!!!.
+> The Hello Rails Backend app is a simple Rails api project with the an end point that generates random greeting messages, it provide the greeting messages to:
+[Hello_React_Frontend](https://github.com/Olivier-Kango/hello-react-front-end)
 
 <!-- <div align="center">
 Please click on the video below to more explanation
@@ -86,11 +87,11 @@ Please click on the video below to more explanation
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a id="live-demo"></a>
+## 🚀 Link To React_app <a id="live-demo"></a>
 
-> Please click the link below to open our webpage in your browser
+> To check which greeting you get in json format, navigate to the following url:
 
-- [Live Demo Link](https://)
+- Link To React_app: http://localhost:3000
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,6 +223,7 @@ I would like to thank:
   - check the [Getting Started](#getting-started) section to have a complete guid on how to setup and run teh project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 ## 📝 License <a id="license"></a>
