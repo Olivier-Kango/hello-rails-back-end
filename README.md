@@ -30,7 +30,7 @@
 # 📖 Hello Rails Backend app <a id="about-project"></a>
 
 > The Hello Rails Backend app is a simple Rails api project with the an end point that generates random greeting messages, it provide the greeting messages to:
-[Hello_Rails_Frontend](https://github.com/Olivier-Kango/hello-react-front-end/tree/feature-react-frontend)
+[Hello_React_Frontend](https://github.com/Olivier-Kango/hello-react-front-end)
 
 <!-- <div align="center">
 Please click on the video below to more explanation
